@@ -52,17 +52,22 @@
 
 <div align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sangampradhan07/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@your-channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+
+  <!-- Gmail -->
+  <a href="mailto:pradhansangam160@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sangam.pradhan.7777" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/your-username" target="_blank">
+  <a href="[https://www.instagram.com/your-username](https://www.instagram.com/_sangam_07/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   
@@ -71,10 +76,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <!-- YouTube -->
+  <a href="[https://www.youtube.com/@your-channel](https://www.youtube.com/@PradhanSangam-07)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
+  
 </div>
 
 

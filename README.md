@@ -15,14 +15,16 @@
 
 ###
 
-<p align="left">I'm from Tanahun, Nepal<br><br>- 🔭 I’m working as React Larevel developer<br>- 📚 I'm currently learning React.js<br>- ⚡ In my free time I learn something new, interesting and creative along with internet surfing or playing games like chess and table tennis.</p>
+<p align="left">I'm from Tanahun, Nepal<br><br>- 🔭 I’m working as React Larevel developer<br>- 📚 Actively learning **React.js** and working on a new project<br>- 💡 Dedicated to continuous learning, creativity, and problem-solving. <br> ⚡ Passionate about **technologies, fitness, photography and diverse interests**</p>
 
+
+### 🎓 Education
+- **ISMT College, Pokhara** – BSc.IT (Hons) *(2022 – 2025)*  
+- **Panchamunidev, Shuklagandaki-08, Tanahun** – +2 Science *(2020 – 2021)*  
+- **Bal Vidhya Mandir, Shuklagandaki-08, Tanahun** – S.E.E *(2019)* 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
 
 ###
 

@@ -71,10 +71,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   
-  <!-- Discord (invite link or username) -->
+  <!-- Discord (invite link or username) 
   <a href="https://discord.gg/your-server-invite" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
+  </a> -->
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/@PradhanSangam-07" target="_blank">

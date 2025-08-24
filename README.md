@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm from Tanahun, Nepal<br><br>- 🔭 I’m working as React Larevel developer<br>- 📚 Actively learning **React.js** and working on a new project.<br>- 💡 Dedicated to continuous learning, creativity, and problem-solving. <br> ⚡ Passionate about **technologies, fitness, photography and diverse interests**</p>
+<p align="left">I'm from Tanahun, Nepal<br><br>- 🔭 I’m working as React Larevel developer<br>- 📚 Actively learning **React.js** and working on a new project.<br>- 💡 Dedicated to continuous learning, creativity, and problem-solving. <br> -⚡ Passionate about **technologies, fitness, photography and diverse interests**</p>
 
 
 ### 🎓 Education

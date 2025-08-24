@@ -1,8 +1,8 @@
 name: Generate Pacman Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+  schedule: # execute every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -14,14 +14,12 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-
       - name: Generate Pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: sangampradhan
-          output_path: dist/pacman
 
       - name: Push Pacman graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

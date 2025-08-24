@@ -175,12 +175,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangampradhan/sangampradhan/output/snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/sangampradhan/sangampradhan/output/snake.svg" />
-</picture>
-
-
 
 ###
 
@@ -194,3 +188,8 @@
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangampradhan/sangampradhan/output/snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sangampradhan/sangampradhan/output/snake.svg" />
+</picture>

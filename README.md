@@ -122,10 +122,10 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/sangampradhan/sangampradhan/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangampradhan/sangampradhan/output/snake-dark.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/sangampradhan/sangampradhan/output/snake.svg" />
-</picture>
+</picture> -->
 
 ###
 

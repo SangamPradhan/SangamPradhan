@@ -119,7 +119,7 @@
     <h4>🔮 Astro Bhavesh (Jyotish Sewa)</h4>
     <p>An astrology service website offering personalized predictions, horoscope guidance, and jyotish consultations.</p>
     <a href="https://mathematicalastrobhavesh.com/" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-red?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-ff0000?style=for-the-badge" />
     </a>
   </div>
 

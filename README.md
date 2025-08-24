@@ -21,14 +21,14 @@
 
 <p align="left">
   I'm from Tanahun, Nepal
-  <br><br>
-  - 🔭 I’m working as **React & Laravel developer.**
   <br>
-  - 📚 Actively learning **React.js** and working on a new project.
+  -🔭 I’m working as **React & Laravel developer.**
   <br>
-  - 💡 Dedicated to continuous learning, creativity, and problem-solving.
+  -📚 Actively learning **React.js** and working on a new project.
   <br>
-  - ⚡ Passionate about **technologies, fitness, photography, and diverse interests**
+  -💡 Dedicated to continuous learning, creativity, and problem-solving.
+  <br>
+  -⚡ Passionate about **technologies, fitness, photography, and diverse interests**
 </p>
 
 ### 🎓 Education

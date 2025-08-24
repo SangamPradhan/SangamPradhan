@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sangam%20Pradhan%20&fontSize=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sangam%20Pradhan%20|%20Web%20Developer&fontSize=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff" />
 </div>
-
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />

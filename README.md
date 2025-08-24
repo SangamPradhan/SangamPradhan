@@ -11,7 +11,10 @@
 
 ###
 
-<h1 align="center">Hey there! 👋</h1>
+  <h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sangam!+👋;React+%26+Laravel+Developer;BSc.IT+Graudate+%7C+ISMT+College;Tech+Explorer+%7C+Fitness+Enthusiast+%7C+Chess+Player" alt="Typing SVG" />
+</h2>
+
 
 ###
 

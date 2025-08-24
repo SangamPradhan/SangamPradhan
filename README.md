@@ -110,35 +110,43 @@
   
 </div>
 
-
 <h3 align="left">🚀 Projects</h3>
 
 <div align="left">
 
   <!-- Project 1 -->
   <div style="margin: 20px;">
-    <h4>🌐 Fashion & Accessories Store</h4>
-    <p>A WordPress-based online store showcasing fashion items with a modern layout.</p>
-    <a href="https://yourfashionstore.com" target="_blank">
+    <h4>🔭 Astro Bhavesh</h4>
+    <p>A professional astrology website providing insights, predictions, and personalized guidance.</p>
+    <a href="https://mathematicalastrobhavesh.com/" target="_blank">
       <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge" />
     </a>
   </div>
 
   <!-- Project 2 -->
   <div style="margin: 20px;">
-    <h4>🏋️ Gym Management App</h4>
-    <p>A C# desktop application to manage memberships and workout plans.</p>
-    <a href="https://yourgymappdemo.com" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-green?style=for-the-badge" />
+    <h4>💆 GoldenTouch Spa & Parlor</h4>
+    <p>A modern spa and beauty parlor website with services, booking options, and elegant design.</p>
+    <a href="https://goldentouchspa.com.np/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-gold?style=for-the-badge" />
     </a>
   </div>
 
   <!-- Project 3 -->
   <div style="margin: 20px;">
-    <h4>🍽 Restaurant Website</h4>
-    <p>A Figma prototype design for a restaurant website with elegant UI/UX.</p>
-    <a href="https://yourrestaurantdesign.com" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-orange?style=for-the-badge" />
+    <h4>🕉️ SpiritualClub</h4>
+    <p>A spiritual community platform sharing articles, events, and resources for spiritual growth.</p>
+    <a href="https://spiritualclub.org.np/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-purple?style=for-the-badge" />
+    </a>
+  </div>
+
+  <!-- Project 4 -->
+  <div style="margin: 20px;">
+    <h4>🌸 Gratifying Spa</h4>
+    <p>A spa and wellness website designed to showcase services and allow easy appointment booking.</p>
+    <a href="https://gratifyingspa.com.np/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-pink?style=for-the-badge" />
     </a>
   </div>
 

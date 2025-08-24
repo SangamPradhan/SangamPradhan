@@ -15,27 +15,22 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👩‍💻  About Me
 
+   I'm from Tanahun, Nepal.
+
+- 🔭 I’m working as **React & Laravel developer.** 
+- 📚 Actively learning **React.js** and working on a new project. 
+- 💡 Dedicated to continuous learning, creativity, and problem-solving.
+-  ⚡ Passionate about **technologies, fitness, photography, and diverse interests**
 ###
-
-<p align="left">
-  I'm from Tanahun, Nepal
-  <br>
-  -🔭 I’m working as **React & Laravel developer.**
-  <br>
-  -📚 Actively learning **React.js** and working on a new project.
-  <br>
-  -💡 Dedicated to continuous learning, creativity, and problem-solving.
-  <br>
-  -⚡ Passionate about **technologies, fitness, photography, and diverse interests**
-</p>
 
 ### 🎓 Education
 - **ISMT College, Pokhara** – BSc.IT (Hons) *(2022 – 2025)*  
 - **Panchamunidev, Shuklagandaki-08, Tanahun** – +2 Science *(2020 – 2021)*  
 - **Bal Vidhya Mandir, Shuklagandaki-08, Tanahun** – S.E.E *(2019)* 
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -115,6 +110,39 @@
   
 </div>
 
+
+<h3 align="left">🚀 Projects</h3>
+
+<div align="left">
+
+  <!-- Project 1 -->
+  <div style="margin: 20px;">
+    <h4>🌐 Fashion & Accessories Store</h4>
+    <p>A WordPress-based online store showcasing fashion items with a modern layout.</p>
+    <a href="https://yourfashionstore.com" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge" />
+    </a>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="margin: 20px;">
+    <h4>🏋️ Gym Management App</h4>
+    <p>A C# desktop application to manage memberships and workout plans.</p>
+    <a href="https://yourgymappdemo.com" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-green?style=for-the-badge" />
+    </a>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="margin: 20px;">
+    <h4>🍽 Restaurant Website</h4>
+    <p>A Figma prototype design for a restaurant website with elegant UI/UX.</p>
+    <a href="https://yourrestaurantdesign.com" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-Click%20Here-orange?style=for-the-badge" />
+    </a>
+  </div>
+
+</div>
 
 ###
 
